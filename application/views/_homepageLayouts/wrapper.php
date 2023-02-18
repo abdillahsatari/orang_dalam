@@ -6,11 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page | Orang Dalam</title>
     <!-- favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-
 	<link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicons/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="assets/images/favicons/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="assets/images/favicons/apple-icon-72x72.png">
@@ -54,12 +49,10 @@
     </div><!-- /.preloader -->
 
     <div class="page-wrapper">
-
-
         <header class="site-header-one stricky site-header-one__fixed-top">
             <div class="container-fluid">
                 <div class="site-header-one__logo">
-                    <a href="index.html">
+                    <a href="#">
                         <img src="assets/images/logo-1-1.png" width="200" alt="">
                     </a>
                     <span class="side-menu__toggler"><i class="fa fa-bars"></i></span><!-- /.side-menu__toggler -->
@@ -87,7 +80,7 @@
                     <a href="tel:0812-4028-0088" class="main-nav__cta">
                         <img src="assets/images/shapes/header-phone-1-1.png" alt="">
                         <span>
-                            <i>Call Anytime </i>
+                            <i>Fast Response </i>
                             <b>0812 4028 0088</b>
                         </span>
                     </a><!-- /.main-nav__cta -->
@@ -104,7 +97,7 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-6">
                             <div class="footer-widget footer-widget__about">
-                                <a href="index.html" class="logo">
+                                <a href="#" class="logo">
                                     <img src="assets/images/logo-1-2.png" width="200" alt="">
                                 </a>
                                 <p>Lembaga Bimbingan Belajar UTBK, CPNS, dan KEDINASAN, yang memiliki sistem pengajaran yang akurat dan ampuh, serta memiliki Mentor-mentor yang berkualitas dan 
@@ -193,15 +186,14 @@
             </nav>
             <div class="side-menu__sep"></div><!-- /.side-menu__sep -->
             <div class="side-menu__content">
-                <p>Lorem Ipsum is simply dummy text the printing and setting industry. Lorm Ipsum has been the
-                    industry's stanard dummy text ever. </p>
-                <p><a href="mailto:needhelp@oapee.com">needhelp@oapee.com</a> <br> <a href="tel:888-999-0000">888 999
-                        0000</a></p>
+                <p>Lembaga Bimbingan Belajar UTBK, CPNS, dan KEDINASAN, yang memiliki sistem pengajaran yang akurat dan ampuh, serta memiliki Mentor-mentor yang berkualitas dan 
+					berpengalaman, dan yang pertama di Indonesia, yang berani
+					menjamin kelulusan dalam perankingan.</p>
+                <p><a href="mailto:orangdalamindonesia@gmail.com">orangdalamindonesia@gmail.com</a> <br> <a href="tel:0812-4028-0088">0812 4028 0088</a></p>
                 <div class="side-menu__social">
-                    <a href="#"><i class="fab fa-facebook-square"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="https://www.facebook.com/official.orangdalam/"><i class="fab fa-facebook-square"></i></a>
+                    <a href="https://www.instagram.com/official.orangdalam/"><i class="fab fa-twitter"></i></a>
+                    <a href="https://t.me/+px74c4f9_3M2NGZl"><i class="fab fa-instagram"></i></a>
                 </div>
             </div><!-- /.side-menu__content -->
         </div><!-- /.side-menu__block-inner -->

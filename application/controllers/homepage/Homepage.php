@@ -8,17 +8,10 @@ class Homepage extends CI_Controller {
 	}
 
     public function index() {
-		$perpage 	= 4;
-		$page 		= $this->uri->segment(2) ?: 0;
-		$articles 	= $this->CrudModel->glo("feducation_article", $perpage, $page, 'created_at DESC');
-		$mitra 		= $this->CrudModel->gwo("feducation_mitra", array("mitra_status" => TRUE), 'created_at DESC');
-
 		$content 	= '_homepageLayouts/homepage/index';
 		$data 		= array('title'      	=> 'Homepage',
 							'appHome'		=> true,
-							'content'    	=> $content,
-							'dataNews'		=> $articles,
-							'dataMitra'		=> $mitra
+							'content'    	=> $content
 		);
 
         $this->load->view('_homepageLayouts/wrapper', $data);

@@ -1,560 +1,414 @@
-<section>
-	<div class="d-none d-sm-block streak streak-photo streak-md">
-		<div class="mask flex-center white">
-			<div class="text-center grey-text smooth-scroll wow fadeIn" data-wow-delay=".4s">
-				<div class="row">
-					<div class="col-md-12">
-						<h1 class="mt-4 font-weight-bold black-text text-center animated bounce odin-rounded">RAIHLAH KESUKSESAN MANJADI DIGITAL PRENEUR</h1>
-						<h4 class="mb-4 text-muted">Feducation id memberikan kurikulum pembelajaran yang mudah dipahami dengan standart industri digital. <br>
-						Dengan menyediakan layanan e-learning yang dapat diakses kapanpun dan dimana saja. <br>
-							Konsultasi langsung dengan tim research serta komunitas yang luas <br> untuk menunjang sharing information yang anda butuhkan.</h4>
-						<h4 class="mb-4 text-muted">Kami juga bekerjasama dengan kurang lebih 100 perusahaan<br> di dalam dan luar negeri dalam menunjang karir anda di industri digital.</h4>
-					</div>
-				</div>
+<section class="banner-one" id="home">
 
-			</div>
-		</div>
-	</div>
-	<div class="d-block d-sm-none "
-		 style="background-image: url('<?= base_url('assets/')?>resources/images/homepages/Financial_Markets.jpeg');">
-		<div class="mask flex-center white">
-			<div class="text-center grey-text smooth-scroll wow fadeIn" data-wow-delay=".4s">
-				<div class="row">
-					<div class="col-md-6 offset-md-3">
-						<h3 class="my-4 font-weight-bold black-text text-center animated bounce odin-rounded">RAIHLAH KESUKSESAN MANJADI DIGITAL PRENEUR PROFESIONAL</h3>
-						<p class="mb-4 text-muted">Feducation id memberikan kurikulum pembelajaran yang mudah dipahami dengan standart industri digital. <br>
-							Dengan menyediakan layanan e-learning yang dapat diakses kapanpun dan dimana saja. <br>
-							Konsultasi langsung dengan tim research serta komunitas yang luas <br> untuk menunjang sharing information yang anda butuhkan.</p>
-						<p class="mb-4 text-muted">Kami juga bekerjasama dengan kurang lebih 100 perusahaan<br> di dalam dan luar negeri dalam menunjang karir anda di industri digital.</p>
-					</div>
-				</div>
+            <img src="assets/images/shapes/banner-shape-1-1.png" class="banner-one__bg-shape-1" alt="orangdalam.co.id">
+            <img src="assets/images/shapes/banner-shape-1-2.png" class="banner-one__bg-shape-2" alt="orangdalam.co.id">
+            <img src="assets/images/shapes/banner-shape-1-3.png" class="banner-one__bg-shape-3" alt="orangdalam.co.id">
+            <img src="assets/images/shapes/banner-shape-1-4.png" class="banner-one__bg-shape-4" alt="orangdalam.co.id">
+            <img src="assets/images/shapes/banner-shape-1-5.png" class="banner-one__bg-shape-5" alt="orangdalam.co.id">
 
-			</div>
-		</div>
-	</div>
-</section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex">
+                        <div class="my-auto">
+                            <div class="banner-one__content">
 
-<!--Section: desktop 2-->
-<section class="center-div-mobile wow fadeIn fss-mainview d-none d-sm-block" data-wow-delay="0.3s"
-		 style="height: 120%; background-image: url('<?= base_url('assets/')?>resources/images/homepages/growth2.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center; visibility: visible; animation-name: fadeIn; animation-delay: 0.3s; height:100vh;">
-	<div class="mask">
-		<div class="center-div">
-			<div class="row pt-5 mt-3">
-				<div class="col-md-12 wow fadeIn mb-3">
-					<div class="text-right pr-5">
-						<h1 class="main_heading font-weight-bold mt-2 mr-5 wow fadeInUp">JADILAH DIGITAL<br> PRENEUR PROFESIONAL</h1>
-						</li>
-						<h5 class="mr-5 wow fadeInUp red-text" data-wow-delay="0.2s">DAPATKAN PEMAHAMAN BISNIS DIGITAL <br> UNTUK MENUNJANG BISNIS <br> DAN KARIR ANDA</h5>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--/Section: desktop 2-->
+                                <h3>Semua Berhak <br> Lulus CPNS & <br> Kedinasan</h3>
+                                <p>Lembaga Kursus Pertama di Indonesia yang Berani Menjamin Lulus Perankingan UTBK, CPNS dan Kedinasan.</p>
+                                <a href="#" class="thm-btn banner-one__btn"><span>Daftar</span></a>
+                                <!-- /.thm-btn banner-one__btn -->
+                            </div><!-- /.banner-one__content -->
+                        </div><!-- /.my-auto -->
+                    </div><!-- /.col-lg-6 -->
+                    <div class="col-lg-6 d-flex justify-content-end wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="banner-one__image">
+                            <img src="assets/images/resources/banner-1-moc-1.png" alt="orangdalam.co.id">
+                        </div><!-- /.banner-one__image -->
+                    </div><!-- /.col-lg-6 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.banner-one -->
 
-<!--Section: mobile 2-->
-<div class="view d-block d-sm-none" data-jarallax='{"speed": 0.2}'
-	 style=" background-image: url('<?= base_url('assets/resources/images/homepages/')?>bg-section2-mobile.png'); background-repeat: no-repeat; background-size: cover; background-position: center center; height:100vh;">
-	<div class="mask">
-		<div class="align-items-center ">
-			<div class="center-div-mobile1">
-				<div class="col-md-12 wow fadeIn pt-5" style="visibility: visible; animation-name: fadeIn;">
-					<div class="text-center">
-						<h1 class="display-1 h1-responsive font-weight-bold wow fadeInUp"
-							style="visibility: visible; animation-name: fadeInUp; color:#f4d32e; text-shadow: 4px 4px #aaa;">
-							CARA SUKSES DI DUNIA DIGITAL</h1>
-						<h6 class="wow fadeInUp" data-wow-delay="0.2s"
-							style="visibility: visible; animation-name: fadeInUp; animation-delay: 0.2s; color:#4c4c4c; font-weight:bold;">
-							<strong>MELALUI PENINGKATAN SKILL DI DUNIA DIGITAL</strong></h6>
-						<a href="<?= base_url()?>" class="btn btn-danger btn-lg mr-5 wow fadeInUp" data-wow-delay="0.8s" style="width: 57%; border-radius: 20px; left: 20px">
-							Daftar Sekarang
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div id="jarallax-container-1"
-		 style="background-image: url('<?= base_url('assets/')?>resources/images/homepages/banner.jpeg'); background-repeat: no-repeat; background-size: cover; background-position: center center;"></div>
-</div>
-<!--/Section: mobile 2-->
+        <section class="service-one" id="features">
+            <div class="container">
+                <div class="block-title text-center">
+                    <h3>Kenapa Memilih <span>Orang Dalam</span></h3>
+                    <p>Lembaga Kursus Orang Dalam Menyediakan Anda Fasilitas Pembelajaran Terbaik <br> Demi Menunjang Kelulusan Anda</p>
+                </div><!-- /.block-title -->
+                <div class="row">
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
+                        <div class="service-one__single">
+                            <h3>E-Tryout</h3>
+                            <p>Orang Dalam Menyediakan Latihan Try out Berbasis Online yang dapat diakses kapanpun dan dimanapun</p>
+                            <div class="service-one__icon">
+                                <i class="oapee-icon-laptop"></i>
+                            </div><!-- /.service-one__icon -->
+                        </div><!-- /.service-one__single -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
+                        <div class="service-one__single">
+                            <h3>Private<br> Course</h3>
+                            <p>Orang Dalam Menyediakan Ruang Kelas yang Nyaman Untuk Proses Belajar Lebih Fokus</p>
+                            <div class="service-one__icon">
+                                <i class="oapee-icon-presentation"></i>
+                            </div><!-- /.service-one__icon -->
+                        </div><!-- /.service-one__single -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
+                        <div class="service-one__single">
+                            <h3>Bank <br> Soal</h3>
+                            <p>Orang Dalam Menyediakan Soal - Soal Online Gratis Untuk Proses Latihan Mandiri</p>
+                            <div class="service-one__icon">
+                                <i class="oapee-icon-target"></i>
+                            </div><!-- /.service-one__icon -->
+                        </div><!-- /.service-one__single -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="service-one__single">
+                            <h3>Konsultasi <br> 24/7</h3>
+                            <p>Orang Dalam memiliki Mentor-mentor yang Berkualitas dan Berpengalaman yang Siap Memberikan Layanan Konsultasi Secara Online Maupun Offline</p>
+                            <div class="service-one__icon">
+                                <i class="oapee-icon-visualization"></i>
+                            </div><!-- /.service-one__icon -->
+                        </div><!-- /.service-one__single -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                </div><!-- /.row --><br>
+            </div><!-- /.container -->
+        </section><!-- /.service-one -->
 
-<!--Section: Saat tepat untuk melangkah-->
-<section id="eyeOfFutureMobile" class="section team-section text-center pb-3 wow fadeIn py-5 d-block d-sm-none"
-		 data-wow-delay="0.3s"
-		 style="background-image: url('<?= base_url('assets/')?>resources/images/homepages/bg-section3-mobile.png'); background-repeat: no-repeat; background-size: cover; background-position: center center; visibility: visible; animation-name: fadeIn; animation-delay: 0.3s;">
-	<div class="container center-div-solution my-5">
-		<h1 class="" data-wow-delay="0.3s"><strong>DAPATKAN PENGHASILAN<br> SECARA ONLINE</strong></h1>
-		<h5><strong>Feducation menggunakan "<em><strong style="color:#ee3343;">KURIKULUM BERBASIS INDUSTRI DIGITAL</strong></em>" </br>
-				untuk menunjang <br><strong>skill</strong> &amp; <strong>kemampuan </strong> para alumninya</strong></h5>
-		<h3 class="mt-4 p-2" data-wow-delay="0.4s" style="background-color:#f4d32e; border-radius: 20px; "><strong
-					class="black-text">Daftar Kelas Sekarang</strong></h3>
-		<div class="row mt-5 text-center d-block d-md-none">
-			<a href="<?= base_url('member/register')?>">
-				<p class="btn-course-mobile mt-1" data-wow-delay="0.4s">
-					<strong class="black-text btn-course-type">LMS
-					</strong>
-					<a target="_blank" href="<?= base_url('member/register')?>"
-					   class="btn-floating btn-sm black align-content-center btn-course-mobile-arrow" type="button"><i class="fas fa-angle-double-right"></i></a>
-				</p>
-			</a>
-			<a href="<?= base_url('courses#mini-course') ?>">
-				<p class="btn-course-mobile mt-1" data-wow-delay="0.4s">
-					<strong class="black-text btn-course-type">Mini Course
-					</strong>
-					<a target="_blank" href="<?= base_url('courses#mini-course
-					') ?>"
-					   class="btn-floating btn-sm black accent-3 waves-effect waves-light btn-course-mobile-arrow" type="button"
-					   role="button"><i class="fas fa-angle-double-right"></i></a>
-				</p>
-			</a>
-			<a href="<?= base_url('courses#intensive-course')?>">
-				<p class="btn-course-mobile mt-1" data-wow-delay="0.4s">
-					<strong class="black-text btn-course-type">Intensive Course
-					</strong>
-					<a target="_blank" href="<?= base_url('courses#intensive-course')?>"
-					   class="btn-floating btn-sm black accent-3 waves-effect waves-light btn-course-mobile-arrow" type="button"
-					   role="button"><i class="fas fa-angle-double-right"></i></a>
-				</p>
-			</a>
-		</div>
-	</div>
-</section>
-<!--Section: Saat tepat untuk melangkah-->
+        <section class="cta-two" id="about">
+            <img src="assets/images/shapes/cta-2-shape-1.png" alt="orangdalam.co.id" class="cta-two__bg-shape-1">
+            <img src="assets/images/shapes/cta-2-dot-1.png" class="cta-two__bg-shape-2" alt="orangdalam.co.id">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <img src="assets/images/resources/cta-2-1.png" class="cta-two__content-image" alt="orangdalam.co.id">
+                    </div><!-- /.col-lg-6 -->
+                    <div class="col-lg-6">
+                        <div class="cta-two__content">
+                            <div class="block-title text-left">
+                                <h3>Tentang <br><span>Orang Dalam</span></h3>
+                            </div><!-- /.block-title text-center -->
+                            <p>Lembaga Bimbingan Belajar UTBK, CPNS, dan KEDINASAN yang memiliki sistem pengajaran yang akurat dan ampuh <br>
+							serta memiliki Mentor-mentor yang berkualitas dan berpengalaman dan yang pertama di Indonesia, yang berani
+                            menjamin kelulusan dalam perankingan.</p>
+                            <!-- <a href="#" class="thm-btn cta-two__btn"><span>Discover More</span></a> -->
+                            <!-- /.thm-btn cta-two__btn -->
+                        </div><!-- /.cta-two__content -->
+                    </div><!-- /.col-lg-6 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.cta-two -->
 
-<section id="eyeOfFuture" class="d-none d-sm-block fadeIn" data-wow-delay="0.3s"
-		 style=" background-image: url('<?= base_url('assets/')?>resources/images/homepages/section-3.jpeg'); background-repeat: no-repeat; background-size: cover; background-position: center center; visibility: visible; animation-name: fadeIn; animation-delay: 0.3s;">
-	<div class="row mx-0">
-		<div class="col-md-12 text-center black-text p-0 mt-5 mb-5">
-			<h1 class="display-1 text-uppercase font-weight-bold mb-0 odin-rounded mt-5 mb-5" data-wow-delay="0.3s">
-				<strong>DAPATKAN PENGHASILAN<br> SECARA ONLINE</strong></h1>
-			<div class="mb-4" style=" font-size:35px; line-height: 40px;" data-wow-delay="0.4s">
-				<p><strong>Feducation menggunakan "<em><strong style="color:#ee3343;">KURIKULUM BERBASIS INDUSTRI DIGITAL </strong></em>"
-						untuk<br> menunjang <strong>skill</strong> &amp; <strong>kemampuan </strong> para alumninya</strong></p>
-				<h2 data-wow-delay="0.4s"><strong
-							style="background: #ee3343; padding: 10px; border-radius: 10px; color: #fff;">Daftar Kelas Sekarang</strong></h2>
-			</div>
-			<div class="container d-none d-sm-block">
-				<div class="row justify-content-center">
-					<div class="col-md-3 p-5">
-						<div class=" collection-card ">
-							<a href="<?= base_url('courses#mini-course')?>">
-								<div class=" zoom">
-									<img src="<?= base_url('assets/')?>resources/images/homepages/mini_course_thumbnail_2.webp"
-										 class="img-fluid z-depth-1 rounded-circle" alt="pelatihan digital marketing">
-									<h4 class="my-4 text-dark"><strong>Mini<br>Course</strong></h4>
-								</div>
-							</a>
-						</div>
-					</div>
-					<!-- <div class="col-md-3 p-5">
-						<div class=" collection-card ">
-							<a href="<?= base_url('course/register/trading-research')?>">
-								<div class=" zoom">
-									<img src="<?= base_url('assets/')?>resources/images/homepages/edukasi_trading_thumbnail.jpg"
-										 class="img-fluid z-depth-1 rounded-circle" alt="Education">
-									<h4 class="my-4 text-dark"><strong>TRADING<br> RESEARCH</strong></h4>
-								</div>
-							</a>
-						</div>
-					</div> -->
+        <!-- <section class="video-one">
+            <div class="container">
+                <div class="video-one__box wow fadeInUp" data-wow-duration="1500ms"
+                    style="background-image: url(assets/images/backgrounds/video-bg-1-1.jpg);">
+                    <div class="video-one__content">
+                        <a href="https://www.youtube.com/watch?v=aitb---aDYM" class="video-popup"><i
+                                class="fa fa-play"></i></a>
+                        <h3>Watch Our Video</h3>
+                    </div>
+                </div>
+            </div>
+        </section> -->
 
-					<div class="col-md-3 p-5">
-						<div class=" collection-card ">
-							<a href="<?= base_url('member/register') ?>">
-								<div class=" zoom">
-									<img src="<?= base_url('assets/resources/images/homepages/lms_thumbnail_3.webp')?>"
-										 class="img-fluid z-depth-1 rounded-circle" alt="Learning Management System">
-									<h4 class="my-4 text-dark"><strong>LMS</strong></h4>
-								</div>
-							</a>
-						</div>
-					</div>
+		<section class="funfact-one">
+            <div class="container">
+				<div class="block-title text-center">
+                    <h3>Sisa <span>Kuota</span></h3>
+                    <p>Sisa Kuota Untuk Periode Maret - April 2023</p>
+                </div><!-- /.block-title text-center -->
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
+                        <div class="funfact-one__single">
+                            <h3 class="counter">3</h3><!-- /.counter -->
+                            <p>Paket Standard</p>
+                        </div><!-- /.funfact-one__single -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
+                        <div class="funfact-one__single">
+                            <h3 class="counter">5</h3><!-- /.counter -->
+                            <p>Paket Titipan</p>
+                        </div><!-- /.funfact-one__single -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
+                        <div class="funfact-one__single">
+                            <h3 class="counter">5</h3><!-- /.counter -->
+                            <p>Paket Premium</p>
+                        </div><!-- /.funfact-one__single -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.funfact-one -->
 
+        <section class="pricing-one" id="pricing">
+            <div class="container">
+                <div class="block-title text-center">
+                    <h3>Pilih <span>Paket</span> Sesuai Kebutuhan Anda</h3>
+                    <p>Paket Kelas Orang Dalam</p>
+                </div>
+                <!-- <ul class="list-inline text-center switch-toggler-list" role="tablist" id="switch-toggle-tab">
+                    <li class="month active"><a href="#">Monthly</a></li>
+                    <li>
+                        <label class="switch on">
+                            <span class="slider round"></span>
+                        </label>
+                    </li>
+                    <li class="year"><a href="#">Annualy</a></li>
+                </ul> -->
 
-					<div class="col-md-3 p-5">
-						<div class=" collection-card ">
-							<a href="<?= base_url('courses#intensive-course')?>">
-								<div class=" zoom">
-									<img src="<?= base_url('assets/')?>resources/images/homepages/intensive_course_thumbnail_3.webp"
-										 class="img-fluid z-depth-1 rounded-circle" alt="pelatihan prakerja">
-									<h4 class="my-4 text-dark"><strong>Intensive<br>Course</strong></h4>
-								</div>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+                <div class="tabed-content">
+                    <div id="month">
+                        <div class="row">
+                            <div class="col-lg-4 animated fadeInLeft">
+                                <div class="pricing-one__single">
+                                    <div class="pricing-one__inner">
+                                        <i class="oapee-icon-send"></i>
+                                        <p>Paket Standard</p>
+										<br>
+										<p> <del>Rp. 1.500.000</del></p>
+                                        <h3>Rp.629.000</h3>
+										per 1 Bulan
+                                        <ul class="list-unstyled pricing-one__list">
+                                            <li><i class="fa fa-check"></i>Sabtu-Minggu 16 Sesi</li>
+                                            <li><i class="fa fa-check"></i>Gratis Try-Out 1x</li>
+                                            <li><i class="fa fa-check"></i>Konsultasi Offline</li>
+											<li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
+                                        </ul><!-- /.list-unstyled pricing-one__list -->
+                                        <a href="#" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
+                                        <!-- /.thm-btn -->
+                                    </div><!-- /.pricing-one__inner -->
+                                </div><!-- /.pricing-one__single -->
+                            </div><!-- /.col-lg-4 -->
+                            
+							<div class="col-lg-4 animated fadeInUp">
+                                <div class="pricing-one__single">
+                                    <div class="pricing-one__inner">
+                                        <i class="oapee-icon-shuttle"></i>
+                                        <p>Paket Titipan</p>
+										<br>
+										<p> <del>Rp.12.000.000</del></p>
+                                        <h3>Rp.6.999.000</h3>
+										Sampai Lulus SKD</p>
+                                        <ul class="list-unstyled pricing-one__list">
+                                            <li><i class="fa fa-check"></i>Private Class</li>
+                                            <li><i class="fa fa-check"></i>Gratis Try-Out 1 Tahun</li>
+                                            <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
+                                            <li><i class="fa fa-check"></i>Bebas Akses Kelas</li>
+											<li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
+											<li><i class="fa fa-check"></i>Jaminan Lulus Perankingan SKD</li>
+                                        </ul>
+                                        <a href="#" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
+                                    </div>
+                                </div>
+                            </div>
 
-<!--Section: Cerita mereka - desktop-->
-<section class="section wow p-5 fadeIn text-center d-none d-sm-block" data-wow-delay="0.3s"
-		 style="background-image: url('<?= base_url('assets/resources/images/homepages/')?>bg-layer8.jpeg'); background-repeat: no-repeat; background-size: 100% 100%; padding-bottom:20px;">
-	<a href="#"><h1 class="font-weight-bold pb-5 odin-rounded"
-													   style="font-size:50px;">Pengalaman Mereka</h1></a>
-	<div class="wrapper-carousel-fix" style="margin-bottom: 50px;">
-		<div id="carousel-example-1" class="carousel no-flex testimonial-carousel slide carousel-fade d-none d-md-block"
-			 data-ride="carousel">
-			<div class="carousel-inner col-md-8 offset-md-2" role="listbox" style=" overflow: inherit !important;">
-				<div class="carousel-item active">
-					<div class="testimonial row">
+                            <div class="col-lg-4 animated fadeInRight">
+                                <div class="pricing-one__single">
+                                    <div class="pricing-one__inner">
+                                        <i class="oapee-icon-shuttle"></i>
+                                        <p>Paket Premium</p>
+										<br>
+										<p> <del>Rp. 3.500.000</del></p>
+                                        <h3>Rp1.199.000</h3>
+										per 3 Bulan
+                                        <ul class="list-unstyled pricing-one__list">
+                                            <li><i class="fa fa-check"></i>Sabtu-Minggu 48 Sesi</li>
+                                            <li><i class="fa fa-check"></i>Gratis Try-Out 3x</li>
+                                            <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
+                                            <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
+                                        </ul><!-- /.list-unstyled pricing-one__list -->
+                                        <a href="#" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
+                                        <!-- /.thm-btn -->
+                                    </div><!-- /.pricing-one__inner -->
+                                </div><!-- /.pricing-one__single -->
+                            </div><!-- /.col-lg-4 -->
+                        </div><!-- /.row -->
+                    </div><!-- /#month -->
+                </div><!-- /.tabed-content -->
 
-						<div class="col-lg-3">
+            </div><!-- /.container -->
+        </section><!-- /.pricing-one -->
 
-							<div class="avatar mx-auto mb-4">
-								<a target="_blank" href="#"><img
-											src="<?= base_url('assets/')?>resources/images/testimonials/businesman2.jpg"
-											class="rounded-circle img-fluid"
-											alt="Learning Management System"></a>
-							</div>
-							<h5 class="font-weight-bold"></h5>
-							<p>
-							<p>Platform LMS Feducation sangat membantu saya dalam meningkatkan skill saya dibidang digital marketing. Materi-materi yang disajikan sangat menarik dan membuka wawasan baru bagi saya dalam membangun strategi bisnis yang lebih baik untuk kemajuan usaha saya.</p>
-						</div>
+        <section class="testimonials-one" id="testimonials">
+            <img src="assets/images/shapes/testi-line-1-1.png" alt="Awesome Image"
+                class="testimonials-one__bg-shape-2" />
 
-						<div class="col-lg-3">
+            <div class="container">
+                <img src="assets/images/shapes/testi-map-1-1.png" alt="Awesome Image"
+                    class="testimonials-one__bg-shape-1" />
+                <div class="row">
+                    <div class="col-lg-6 d-flex">
+                        <div class="my-auto">
+                            <div id="testimonials-slider-pager">
+                                <div class="testimonials-slider-pager-one">
+                                    <a href="#" class="pager-item active" data-slide-index="0"><img
+                                            src="assets/images/testimonials/testi-3.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="1"><img
+                                            src="assets/images/testimonials/testi-2.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="2"><img
+                                            src="assets/images/testimonials/testi-5.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="3"><img
+                                            src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="4"><img
+                                            src="assets/images/testimonials/testi-4.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="5"><img
+                                            src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                </div><!-- /.testimonials-slider-pager-one -->
+                                <div class="testimonials-slider-pager-two">
+                                    <a href="#" class="pager-item active" data-slide-index="0"><img
+                                            src="assets/images/testimonials/testi-3.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="1"><img
+                                            src="assets/images/testimonials/testi-2.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="2"><img
+                                            src="assets/images/testimonials/testi-5.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="3"><img
+                                            src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="4"><img
+                                            src="assets/images/testimonials/testi-4.jpg" alt="Awesome Image" /></a>
+                                    <a href="#" class="pager-item" data-slide-index="5"><img
+                                            src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                </div><!-- /.testimonials-slider-pager-two -->
+                            </div><!-- /#testimonials-slider-pager -->
+                        </div><!-- /.my-auto -->
+                    </div><!-- /.col-lg-6 -->
+                    <div class="col-lg-6">
+                        <div class="block-title text-left">
+                            <h3>Pengalaman Siswa <br><span>Orang Dalam</span></h3>
+                        </div><!-- /.block-title text-center -->
 
-							<div class="avatar mx-auto mb-4">
-								<a target="_blank"
-								   href="#"><img
-											src="<?= base_url('assets/')?>resources/images/testimonials/businesman4.jpg"
-											class="rounded-circle img-fluid"
-											alt="Learning Management system"></a>
-							</div>
-							<h5 class="font-weight-bold"></h5>
-							<p>
-							<p>Program LMS Feducation Id menurut saya adalah salah satu platform yang sangat luar biasa. Dengan harga yang sangat terjangkau saya bisa belajar apapun yang saya butuhkan dalam mengembangkan skill dan juga bisnis saya.</p>
-						</div>
+                        <ul class="slider testimonials-slider">
+                            <li class="slide-item">
+                                <div class="testimonials-one__single">
+                                    <p>Belajar di Orang Dalam asik dan menyenangkan. Kita di ajarkan tips dan Trik
+										bagaimana menjawab soal dengan cepat dan benar. Alhamdulillah saya lulus
+										CPNS 2021 di Pemprov Sulawesi Barat. Terima Kasih Orang Dalam.
+                                    </p>
+                                    <h3>Syamsidar</h3>
+                                    <span>Pemprov Sulbar - CPNS 2021</span>
+                                </div><!-- /.testimonials-one__single -->
+                            </li>
+                            <li class="slide-item">
+                                <div class="testimonials-one__single">
+                                    <p>Menjadi bagian dari Keluarga Orang Dalam adalah pengalaman yang tidak bisa 
+										saya lupakan. Suasana kelas yang nyaman, dan mentor yang profesional adalah 
+										kunci sukses Belajar di Orang Dalam. Alhamdulillah Saya Lulus CPNS 2021 
+										di BPK Provinsi Gorontalo. Terima Kasih Orang Dalam.
+                                    </p>
+                                    <h3>Fariyadi</h3>
+                                    <span>BPK Prov. Gorontalo - CPNS 2021</span>
+                                </div><!-- /.testimonials-one__single -->
+                            </li>
+                            <li class="slide-item">
+                                <div class="testimonials-one__single">
+                                    <p>Alhamdulillah semua jadi terbiasa dalam mengerjakan soal lewat CAT
+										dengan bimbel di Orang Dalam. Soal-soal latihannya pun teruji ampuh
+										dan hampir sama dengan yang keluar di soal seleksi CPNS. Terima Kasih Orang Dalam.
+                                    </p>
+                                    <h3>Debby</h3>
+                                    <span>Pemprov Sulbar - CPNS 2021</span>
+                                </div><!-- /.testimonials-one__single -->
+                            </li>
+                            <li class="slide-item">
+                                <div class="testimonials-one__single">
+                                    <p>Saya mau ucapkan terima kasih karena sudah membimbing saya dan teman-teman,
+										saya mau kasih tau juga kak karena bimbingan di Orang Dalam, saya diterima di
+										Dinas Tenaga Kerja Daerah Prov. Sulawesi Barat. Terima kasih banyak kak Orang Dalam.
+                                    </p>
+                                    <h3>Idham</h3>
+                                    <span>Pemprov Sulbar - CPNS 2021</span>
+                                </div><!-- /.testimonials-one__single -->
+                            </li>
+                            <li class="slide-item">
+                                <div class="testimonials-one__single">
+                                    <p>btw kita diajarkan tentang belajar yang sulit terlebih dahulu, gampang ujian kemudian.
+										Soal-soal Try-Outnya HOTS semua, Recommended lah pokoknya buat pejuang ASN dan Kedinasan.
+										Terima kasih atas program bimbelnya Orang Dalam.
+                                    </p>
+                                    <h3>Kasturi</h3>
+                                    <span>Pemprov Sulbar - CPNS 2021</span>
+                                </div><!-- /.testimonials-one__single -->
+                            </li>
+                        </ul>
+                    </div><!-- /.col-lg-6 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.testimonials-one -->
 
-						<div class="col-lg-3">
+        <section class="blog-one" id="blog">
+            <img src="assets/images/shapes/blog-shape-1-1.png" class="blog-one__bg-shape-1" alt="orangdalam.co.id">
+            <img src="assets/images/shapes/blog-shape-1-2.png" class="blog-one__bg-shape-2" alt="`orangdalam.co.id`">
+            <div class="container">
+                <div class="block-title text-center">
+                    <h3>Artikel <span>Orang Dalam</span></h3>
+                    <p>Berita-berita Seputar CPNS, UTBK, dan Kedinasan.</p>
+                </div><!-- /.block-title text-center -->
+                <div class="row">
+                    <div class="col-lg-4 ">
+                        <div class="blog-one__single">
+                            <div class="blog-one__image">
+                                <img src="assets/images/blog/blog-1-1.jpg" alt="orangdalam.co.id">
+                            </div><!-- /.blog-one__image -->
+                            <div class="blog-one__content">
+                                <div class="blog-one__meta">
+                                    <a href="#"><i class="far fa-clock"></i> 20 Feb</a>
+                                    <a href="#"><i class="far fa-comments"></i> 2 Comments</a>
+                                </div><!-- /.blog-one__meta -->
+                                <h3><a href="#">Mengenal Sistem Computer Assisted Test (CAT)</a>
+                                </h3>
+                            </div><!-- /.blog-one__content -->
+                        </div><!-- /.blog-one__single -->
+                    </div><!-- /.col-lg-4 col-md-6 -->
+                    <div class="col-lg-4 ">
+                        <div class="blog-one__single">
+                            <div class="blog-one__image">
+                                <img src="assets/images/blog/blog-1-2.jpg" alt="orangdalam.co.id">
+                            </div><!-- /.blog-one__image -->
+                            <div class="blog-one__content">
+                                <div class="blog-one__meta">
+                                    <a href="#"><i class="far fa-clock"></i> 20 Feb</a>
+                                    <a href="#"><i class="far fa-comments"></i> 2 Comments</a>
+                                </div><!-- /.blog-one__meta -->
+                                <h3><a href="#">Strategi Mengerjakan Soal CAT</a>
+                                </h3>
+                            </div><!-- /.blog-one__content -->
+                        </div><!-- /.blog-one__single -->
+                    </div><!-- /.col-lg-4 col-md-6 -->
+                    <div class="col-lg-4 ">
+                        <div class="blog-one__single">
+                            <div class="blog-one__image">
+                                <img src="assets/images/blog/blog-1-3.jpg" alt="orangdalam.co.id">
+                            </div><!-- /.blog-one__image -->
+                            <div class="blog-one__content">
+                                <div class="blog-one__meta">
+                                    <a href="#"><i class="far fa-clock"></i> 20 Feb</a>
+                                    <a href="#"><i class="far fa-comments"></i> 2 Comments</a>
+                                </div><!-- /.blog-one__meta -->
+                                <h3><a href="#">Jadwal Seleksi CPNS 2023 Terbaru.</a></h3>
+                            </div><!-- /.blog-one__content -->
+                        </div><!-- /.blog-one__single -->
+                    </div><!-- /.col-lg-4 col-md-6 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.blog-one -->
 
-							<div class="avatar mx-auto mb-4">
-								<a target="_blank"
-								   href="#"><img
-											src="<?= base_url('assets/')?>resources/images/testimonials/businesman3.jpg"
-											class="rounded-circle img-fluid"
-											alt="pelatihan prakerja"></a>
-							</div>
-							<h5 class="font-weight-bold"></h5>
-							<p>
-							<p>Setelah mengambil kursus digital marketing pada kelas digital marketing feducation. Saya akhirnya memiliki pemahaman yang luas mengenai dunia industri dan marketing berbasis digital. Ini membantu saya dalam memasarkan produk UMKM saya dalam mencapai target pasar yang lebiih luas</p>
-						</div>
+        <section class="cta-one" style="background-image: url(assets/images/backgrounds/cta-1-bg-1.jpg);">
+            <div class="container">
+                <img src="assets/images/shapes/cta-shape-1-1.png" class="cta-one__bg-shape-1" alt="orangdalam.co.id">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <div class="cta-one__content">
+                            <h3>Tunggu Apa Lagi <br> Segera Daftarkan Diri Anda </h3>
+                            <p>Sukses Seleksi CPNS, Kedinasan, UTBK Bersama Orang Dalam</p>
+                        </div><!-- /.cta-one__content -->
+                    </div><!-- /.col-lg-6 -->
+                    <div class="col-lg-4 d-flex ">
+                        <div class="my-auto d-flex justify-content-end">
+                            <a href="#" class="thm-btn cta-one__btn"><span>Daftar Sekarang</span></a>
+                            <!-- /.thm-btn cta-one__btn -->
+                        </div><!-- /.my-auto -->
+                    </div><!-- /.col-lg-6 -->
 
-						<div class="col-lg-3">
-
-							<div class="avatar mx-auto mb-4">
-								<a target="_blank" href="#"><img
-											src="<?= base_url('assets/')?>resources/images/testimonials/businesman1.jpg"
-											class="rounded-circle img-fluid"
-											alt="pelatihan digital marketing"></a>
-							</div>
-							<h5 class="font-weight-bold"></h5>
-							<p>
-							<p>Materi yang diberikan pada kelas web programming feducation Id sangat mudah dipahami dan menyenangkan. Saya dapat dengan mudah mengikuti arahan-arahan yang diberikan oleh mentor feducation Id </p>
-						</div>
-
-						<!-- <div class="col-lg-3">
-
-							<div class="avatar mx-auto mb-4">
-								<a target="_blank" href="#"><img
-											src="<?= base_url('assets/')?>resources/images/testimonials/businesman2.jpg"
-											class="rounded-circle img-fluid"
-											alt="pelatihan akuntansi"></a>
-							</div>
-							<h5 class="font-weight-bold"></h5>
-							<p>
-							<p>Sangat luar biasa saya bisa memperoleh ilmu baru seputar pengelolaan keuangan setelah mengikuti kelas Komputer dan Akuntansi pada platform LMS Feducation dengan harga yang sangat terjangkau</p>
-						</div> -->
-
-					</div>
-				</div>
-			</div>
-
-			<!-- <a class="carousel-control-prev left carousel-control" href="#carousel-example-1" role="button"
-			   data-slide="prev">
-				<span class="icon-prev" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next right carousel-control" href="#carousel-example-1" role="button"
-			   data-slide="next">
-				<span class="icon-next" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a> -->
-		</div>
-	</div>
-</section>
-<!--Section: Cerita mereka - desktop-->
-
-<!--Section: Cerita mereka - mobile-->
-<section class="section wow pt-5 fadeIn text-center d-block d-sm-none" data-wow-delay="0.3s"
-		 style="background-image: url('<?= base_url('assets/resources/images/homepages/')?>bg-layer8.jpeg');">
-	<a href="<?= base_url() ?>"><h1 class="font-weight-bold odin-rounded" style="font-size:50px;">
-			Pengalaman Mereka</h1></a>
-	<div class="wrapper-carousel-fix">
-		<!-- Carousel Wrapper -->
-		<div id="testimoniMobile" class="carousel no-flex testimonial-carousel slide carousel-fade" data-ride="carousel"
-			 data-interval="false">
-			<!--Slides-->
-			<div class="carousel-inner ">
-				<!--First slide-->
-
-				<div class="carousel-item active p-4">
-					<div class="row">
-						<!--Grid column-->
-						<div class="testimonial row">
-							<div class="col-lg-3 col-md-12 mb-lg-0 m-5">
-								<div class="avatar mx-auto mb-4">
-									<a href="#"><img
-												src="<?= base_url('assets/')?>resources/images/testimonials/businesman2.jpg"
-												class="rounded-circle img-fluid"
-												alt="pelatihan digital marketing"></a>
-								</div>
-								<h4 class="font-weight-bold"></h4>
-
-								<p style="font-weight:380;">
-									<i class="fas fa-quote-left"></i>
-								<p><strong>Platform LMS Feducation sangat membantu saya dalam meningkatkan skill saya dibidang digital marketing. Materi-materi yang disajikan sangat menarik dan membuka wawasan baru bagi saya dalam membangun strategi bisnis yang lebih baik untuk kemajuan usaha saya. 
-								</p>
-							</div>
-						</div>
-						<!--Grid column-->
-					</div>
-				</div>
-
-				<!--First slide-->
-				<!--Second slide-->
-
-				<div class="carousel-item p-4">
-					<div class="row">
-						<!--Grid column-->
-						<div class="testimonial row">
-							<div class="col-lg-3 col-md-12 mb-lg-0 m-5">
-								<div class="avatar mx-auto mb-4">
-									<a href="#"><img
-												src="<?= base_url('assets/')?>resources/images/testimonials/businesman4.jpg"
-												class="rounded-circle img-fluid"
-												alt="digital marketing"></a>
-								</div>
-								<h4 class="font-weight-bold"></h4>
-								<p style="font-weight:380;">
-									<i class="fas fa-quote-left"></i>
-								<p>
-									Program LMS Feducation Id menurut saya adalah salah satu platform yang sangat luar biasa. Dengan harga yang sangat terjangkau saya bisa belajar apapun yang saya butuhkan dalam mengembangkan skill dan juga bisnis saya.
-								</p>
-							</div>
-						</div>
-						<!--Grid column-->
-					</div>
-				</div>
-
-				<div class="carousel-item p-4">
-					<div class="row">
-						<!--Grid column-->
-						<div class="testimonial row">
-							<div class="col-lg-3 col-md-12 mb-lg-0 m-5">
-								<div class="avatar mx-auto mb-4">
-									<a href="#"><img
-												src="<?= base_url('assets/')?>resources/images/testimonials/businesman3.jpg"
-												class="rounded-circle img-fluid"
-												alt="pelatihan web programming"></a>
-								</div>
-								<h4 class="font-weight-bold"></h4>
-								<p style="font-weight:380;">
-									<i class="fas fa-quote-left"></i>
-								<p>
-									Setelah mengambil kursus digital marketing pada kelas digital marketing feducation. Saya akhirnya memiliki pemahaman yang luas mengenai dunia industri dan marketing berbasis digital. Ini membantu saya dalam memasarkan produk UMKM saya dalam mencapai target pasar yang lebiih luas
-								</p>
-							</div>
-						</div>
-						<!--Grid column-->
-					</div>
-				</div>
-
-				<div class="carousel-item p-4">
-					<div class="row">
-						<!--Grid column-->
-						<div class="testimonial row">
-							<div class="col-lg-3 col-md-12 mb-lg-0 m-5">
-								<div class="avatar mx-auto mb-4">
-									<a href="#"><img
-												src="<?= base_url('assets/')?>resources/images/testimonials/businesman1.jpg"
-												class="rounded-circle img-fluid"
-												alt="pelatihan web programming"></a>
-								</div>
-								<h4 class="font-weight-bold"></h4>
-								<p style="font-weight:380;">
-									<i class="fas fa-quote-left"></i>
-								<p>Materi yang diberikan pada kelas web programming feducation Id sangat mudah dipahami dan menyenangkan. Saya dapat dengan mudah mengikuti arahan-arahan yang diberikan oleh mentor feducation Id 
-								</p>
-							</div>
-						</div>
-						<!--Grid column-->
-					</div>
-				</div>
-
-				<div class="carousel-item p-4">
-					<div class="row">
-						<!--Grid column-->
-						<div class="testimonial row">
-							<div class="col-lg-3 col-md-12 mb-lg-0 m-5">
-								<div class="avatar mx-auto mb-4">
-									<a href="#"><img
-												src="<?= base_url('assets/')?>resources/images/testimonials/businesman1.jpg"
-												class="rounded-circle img-fluid"
-												alt="pelatihan akuntansi"></a>
-								</div>
-								<h4 class="font-weight-bold"></h4>
-								<p style="font-weight:380;">
-									<i class="fas fa-quote-left"></i>
-								<p>Sangat luar biasa saya bisa memperoleh ilmu baru seputar pengelolaan keuangan setelah mengikuti kelas Komputer dan Akuntansi pada platform LMS Feducation dengan harga yang sangat terjangkau 
-								</p>
-							</div>
-						</div>
-						<!--Grid column-->
-					</div>
-				</div>
-				
-
-				<!--Second slide-->
-			</div>
-			<!--Slides-->
-			<!--Controls-->
-			<a class="carousel-control-prev left carousel-control mobile-left" href="#testimoniMobile" role="button"
-			   data-slide="prev">
-				<span class="icon-prev" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next right carousel-control mobile-right" href="#testimoniMobile" role="button"
-			   data-slide="next">
-				<span class="icon-next" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
-			<!--Controls-->
-		</div>
-		<!-- Carousel Wrapper -->
-	</div>
-</section>
-<!--Section: Cerita mereka - mobile-->
-
-<!-- Section: Article -->
-<div class="container-fluid">
-	<h3 class=" font-weight-bold text-center text-danger odin-rounded mt-5" style="font-size:50px;">BERITA DIGITAL
-		FEDUCATION</h3>
-
-	<!-- Content here -->
-	<div class="row my-5">
-		<?php if ($dataNews == []) { ?>
-			<h2>Coming Soon In Short Time </h2>
-		<?php  } else { ?>
-			<?php foreach ($dataNews as $dataNews) { ?>
-
-			<div class="col-lg-3 col-md-12 my-3">
-				<!--Card Regular-->
-				<div class="card card-cascade">
-					<!--Card image-->
-					<div class="view view-cascade overlay zoom" style="border-bottom: #ee3343 5px solid;">
-						<img src="<?= base_url('assets/resources/images/articles/thumbnails/'  . $dataNews->article_thumbnail) ?>" class="card-img-top"
-							 alt="pelaihan digital marketing">
-						<a href="<?= base_url('/article/read/' . $dataNews->article_slug); ?>">
-							<div class="mask rgba-white-slight"></div>
-						</a>
-					</div>
-
-
-					<div class="col-md-12 col-xs-12 mt-4" style=" min-height:250px;">
-
-						<!--/.Card image-->
-						<p class="h6-responsive font-weight-bolder my-2"><?= $dataNews->article_headline ?></p>
-						<!-- Excerpt -->
-						<p>
-						<p>
-							<?php
-
-							$string = strip_tags($dataNews->article_content);
-							if (strlen($string) > 200) {
-								$stringCut = substr($string, 0, 200);
-								$string = substr($stringCut, 0, strrpos($stringCut, ' '))." ...";
-							}
-
-							echo $string;
-							?>
-						</p>
-					</div>
-					<div class="col-md-12 mb-3">
-						<a href="<?= base_url('/article/read/' . $dataNews->article_slug); ?>">
-							<button type="button" class="btn btn-danger">Learn More</button>
-						</a>
-					</div>
-
-				</div>
-				<!--/.Card Regular-->
-			</div>
-			<?php } ?>
-		<?php } ?>
-	</div>
-</div>
-<!-- End of Section: Article -->
-
-<!--Section: Mitra Kami - desktop-->
-<section class="section wow p-5 fadeIn text-center d-none d-sm-block" data-wow-delay="0.3s"
-		 style="background-image: url('<?= base_url('assets/resources/images/homepages/')?>bg-layer8.jpeg'); background-repeat: no-repeat; background-size: 100% 100%; padding-bottom:20px;">
-	<a href="<?= base_url('mitra')?>"><h1 class="font-weight-bold pb-5 odin-rounded" style="font-size:50px;">
-			Mitra Kami</h1></a>
-	<section style="background-repeat: no-repeat; background-size: cover; background-position: center center;">
-		<div class="row no-gutters">
-			<div class="col-12 mt-5">
-				<!-- Card Wider -->
-				<div class="row justify-content-center text-center">
-					<?php foreach ($dataMitra as $mitra):?>
-						<div class="col-lg-3 col-md-3 col-sm-12 my-4">
-							<div class="view overlay justify-content-center">
-								<img src="<?= base_url('assets/resources/images/mitras/').$mitra->mitra_logo ?>" class="img-fluid" alt="pelatihan prakerja">
-								<a target="_blank" href="<?= $mitra->mitra_link?>" class="justify-content-center">
-									<div class="mask waves-effect waves-light rgba-white-slight justify-content-center"></div>
-								</a>
-							</div>
-						</div>
-					<?php endforeach;?>
-				</div>
-			</div>
-		</div>
-	</section>
-</section>
-<!--Section: Mitra Kami - desktop-->
-
-<!--Section: Mitra Kami - mobile-->
-<section class="section wow pt-5 fadeIn text-center d-block d-sm-none" data-wow-delay="0.3s"
-		 style="background-image: url('<?= base_url('assets/resources/images/homepages/')?>bg-layer8.jpeg');">
-	<a href="<?= base_url('mitra')?>"><h1 class="font-weight-bold odin-rounded" style="font-size:50px;">
-			Mitra Kami</h1></a>
-
-	<section style="background-repeat: no-repeat; background-size: cover; background-position: center center;">
-		<div class="row no-gutters">
-			<div class="col-12 mt-5">
-				<!-- Card Wider -->
-				<div class="row justify-content-center text-center">
-					<style>
-						.view img, .view video {
-							display: initial !important;
-						}
-					</style>
-					<?php foreach ($dataMitra as $mitra):?>
-						<div class="col-lg-3 col-md-3 col-sm-12 my-4">
-							<div class="view overlay justify-content-center">
-								<img src="<?= base_url('assets/resources/images/mitras/').$mitra->mitra_logo ?>" class="img-fluid" alt="pelatihan prakerja" style="width: 50%;">
-								<a target="_blank" href="<?= $mitra->mitra_link?>" class="justify-content-center">
-									<div class="mask waves-effect waves-light rgba-white-slight justify-content-center"></div>
-								</a>
-							</div>
-						</div>
-					<?php endforeach;?>
-				</div>
-			</div>
-		</div>
-	</section>
-
-</section>
-<!--Section: Mitra Kami - mobile-->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.cta-one -->

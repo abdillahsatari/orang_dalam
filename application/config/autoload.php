@@ -74,8 +74,7 @@ $autoload['libraries'] = array('database',
 								'Enums/NotificationType',
 								'Enums/MemberCourseStatus',
 								'Enums/MemberWdStatus',
-								'Enums/FastResponseStatus',
-								'networktree');
+								'Enums/FastResponseStatus');
 
 /*
 | -------------------------------------------------------------------
@@ -149,4 +148,4 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-$autoload['model'] = array('CrudModel', 'FinanceModel', 'ActivityLog', 'CheckoutProductModel');
+$autoload['model'] = array('CrudModel', 'ActivityLog');

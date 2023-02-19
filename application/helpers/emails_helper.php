@@ -7,72 +7,31 @@ function sendEmail($params){
 	$ci = &get_instance();
 
 	switch ($params['emailType']) {
-		case EmailType::NEW_MEMBER_REGISTRATION:
+		case EmailType::MEMBER_REGISTRATION:
 			$dataMsg['user']	= array('memberFullName'	=> $params['memberFullName'],
-										'memberEmail'		=> $params['memberEmail'],
+										'memberEmail'		=> $params['emailRecipient'],
+										'memberToken'		=> $params['memberToken'],
+										'courseName'		=> $params['courseName'],
+										'coursePrice'		=> $params['coursePrice']);
+
+			$emailBody 			= $ci->load->view('_emailTemplate/email_member_registration', $dataMsg, true);
+			break;
+		case EmailType::REGISTRATION_VERIFICATION:
+			$dataMsg['user']	= array('memberFullName'	=> $params['memberFullName'],
+										'memberEmail'		=> $params['emailRecipient'],
 										'memberPassword'	=> $params['memberPassword'],
 										'memberToken'		=> $params['memberToken']);
 
-			$emailBody 			= $ci->load->view('_emailTemplate/email_member_verification', $dataMsg, true);
+			$emailBody 			= $ci->load->view('_emailTemplate/email_member_registration_verification', $dataMsg, true);
 			break;
 		case EmailType::FORGOT_PASSWORD:
 			$dataMsg['user']	= array('emailHeadline'		=> $params['emailSubject'],
 										'memberFullName'	=> $params['memberFullName'],
-										'memberEmail'		=> $params['memberEmail'],
+										'memberEmail'		=> $params['emailRecipient'],
 										'memberPassword'	=> $params['memberPassword'],
 										'memberToken'		=> $params['memberToken']);
 
 			$emailBody 			= $ci->load->view('_emailTemplate/email_member_forgot_password', $dataMsg, true);
-			break;
-		case EmailType::MEMBER_COURSE:
-			$dataMsg['user']	= array('memberFullName'	=> $params['memberFullName'],
-										'courseHeadline'	=> $params['courseHeadline'],
-										'courseCategory'	=> $params['courseCategory'],
-										'coursePrice'		=> $params['coursePrice'],
-										'paymentGateway'	=> $params['paymentGateway'],
-										'nomorRekening'		=> $params['nomorRekening'],
-										'pemilikAkunBank'	=> $params['pemilikAkunBank']);
-
-			$emailBody 			= $ci->load->view('_emailTemplate/email_member_invoice', $dataMsg, true);
-			break;
-		case EmailType::REGISTERED_COURSED:
-			$dataMsg['user']	= array('memberFullName'	=> $params['memberFullName'],
-										'memberEmail'		=> $params['memberEmail'],
-										'courseHeadline'	=> $params['courseHeadline'],
-										'courseCategory'	=> $params['courseCategory'],
-										'coursePrice'		=> $params['coursePrice'],
-										'uniqueCode'		=> $params['uniqueCode'],
-										'totalPayment'		=> $params['totalPayment']);
-
-			$emailBody 			= $ci->load->view('_emailTemplate/email_register_course', $dataMsg, true);
-			break;
-		case EmailType::REGISTERED_COURSED_COMPLETED:
-			$dataMsg['user']	= array('memberFullName'	=> $params['memberFullName'],
-										'memberEmail'		=> $params['memberEmail'],
-										'courseHeadline'	=> $params['courseHeadline'],
-										'courseType'		=> $params['courseType'],
-										'courseChannel'		=> $params['courseChannel'],
-										'referalCode'		=> $params['referalCode']);
-
-			$emailBody 			= $ci->load->view('_emailTemplate/email_register_course_acceptance', $dataMsg, true);
-			break;
-		case EmailType::REGISTERED_NEW_LMS_ACCOUNT:
-			$dataMsg['user']	= array('memberFullName'	=> $params['memberFullName'],
-										'memberEmail'		=> $params['memberEmail'],
-										'memberPhoneNumber'	=> $params['memberPhoneNumber'],
-										'coursePrice'		=> $params['coursePrice'],
-										'uniqueCode'		=> $params['uniqueCode'],
-										'totalPayment'		=> $params['totalPayment']);
-
-			$emailBody 			= $ci->load->view('_emailTemplate/email_register_lms', $dataMsg, true);
-			break;
-		case EmailType::REGISTERED_LMS_ACCOUNT_COMPLETED:
-			$dataMsg['user']	= array('memberFullName'	=> $params['memberFullName'],
-										'memberEmail'		=> $params['memberEmail'],
-										'memberPassword'	=> $params['memberPassword'],
-										'referalCode'		=> $params['referalCode']);
-
-			$emailBody 			= $ci->load->view('_emailTemplate/email_register_lms_acceptance', $dataMsg, true);
 			break;
 	};
 
@@ -110,10 +69,10 @@ function sendEmail($params){
 // 	$mail->Port     	= 465; // 465/587
 
 	$mail->isSMTP();
-	$mail->Host     	= 'mail.feducation.id';
+	$mail->Host     	= 'mail.orangdalam.co.id';
 	$mail->SMTPAuth 	= true;
-	$mail->Username 	= 'noreply@feducation.id';
-	$mail->Password 	= 'n0r3ply@feducation@12345';
+	$mail->Username 	= 'noreply@orangdalam.co.id';
+	$mail->Password 	= 'n0r3ply@orangdalam@12345';
 	$mail->SMTPSecure 	= 'ssl';
 	$mail->Port     	= 465; // 465/587
 	
@@ -122,9 +81,9 @@ function sendEmail($params){
 											  'verify_peer_name' => false,
 											  'allow_self_signed' => true));
 
-	$mail->setFrom('noreply@feducation.id', 'Feducation ID');
-	$mail->addReplyTo('developer@feducation.co.id');
-	$mail->addAddress($params['memberEmail']);
+	$mail->setFrom('noreply@orangdalam.co.id', 'Official Orang Dalam');
+	$mail->addReplyTo('dev@orangdalam.co.id');
+	$mail->addAddress($params['emailRecipient']);
 	$mail->Subject = $params['emailSubject'];
 	$mail->isHTML(TRUE);
 	$mail->Body = $emailBody;

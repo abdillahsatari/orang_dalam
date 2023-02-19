@@ -5,7 +5,7 @@ function generateReferralCode($id){
 
 	$random1	= substr(str_shuffle("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 2);
 	$random2	= substr(str_shuffle("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 2);
-	$result		= "FED-".$random1.str_pad($id, 4, "X",STR_PAD_BOTH).$random2;
+	$result		= "OD-".date("Y-m-d")."-".$id;
 
 	return $result;
 }
@@ -38,11 +38,11 @@ function generalToaster($info, $msg, $type){
 		case ToasterType::SUCCESS:
 			$ci->session->set_flashdata('message', '<div class="alert border-0 alert-dismissible fade show py-2">
 														<div class="d-flex align-items-center">
-															<div class="font-35 text-white"><i class="bx bxs-check-circle"></i>
+															<div class="font-35"><i class="bx bxs-check-circle"></i>
 															</div>
 															<div class="ms-3">
-																<h6 class="mb-0 text-white">'.$info.'</h6>
-																<small class="text-white">'.$msg.'</small>
+																<h6 class="mb-0">'.$info.'</h6>
+																<small class="">'.$msg.'</small>
 															</div>
 														</div>
 														<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
@@ -51,11 +51,11 @@ function generalToaster($info, $msg, $type){
 		case ToasterType::FAILED;
 			$ci->session->set_flashdata('message', '<div class="alert border-0 alert-dismissible fade show py-2">
 														<div class="d-flex align-items-center">
-															<div class="font-30 text-white"><i class="bx bxs-message-square-x"></i>
+															<div class="font-30"><i class="bx bxs-message-square-x"></i>
 															</div>
 															<div class="ms-3">
-																<h6 class="mb-0 text-white">'.$info.'</h6>
-																<small class="text-white">'.$msg.'</small>
+																<h6 class="mb-0">'.$info.'</h6>
+																<small class="">'.$msg.'</small>
 															</div>
 														</div>
 														<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
@@ -64,11 +64,11 @@ function generalToaster($info, $msg, $type){
 		case ToasterType::INFO:
 			$ci->session->set_flashdata('message', '<div class="alert border-0 alert-dismissible fade show py-2">
 														<div class="d-flex align-items-center">
-															<div class="font-25 text-white"><i class="bx bx-info-circle"></i>
+															<div class="font-25"><i class="bx bx-info-circle"></i>
 															</div>
 															<div class="ms-3">
-																<h6 class="mb-0 text-white">'.$info.'</h6>
-																<small class="text-white">'.$msg.'</small>
+																<h6 class="mb-0">'.$info.'</h6>
+																<small class="">'.$msg.'</small>
 															</div>
 														</div>
 														<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>

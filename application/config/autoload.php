@@ -73,6 +73,7 @@ $autoload['libraries'] = array('database',
 								'Enums/ToasterType',
 								'Enums/NotificationType',
 								'Enums/MemberCourseStatus',
+								'Enums/MemberStatus',
 								'Enums/MemberWdStatus',
 								'Enums/FastResponseStatus');
 

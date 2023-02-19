@@ -7,7 +7,6 @@ class CrudModel extends CI_Model {
     public function gl($t,$l,$f){return $this->db->limit($l,$f)->get($t)->result();} //get limit
     public function glo($t,$l,$f,$o){return $this->db->limit($l,$f)->order_by($o)->get($t)->result();} //get limit order
     public function cw($t,$w){return $this->db->where($w)->get($t)->num_rows();} //count where
-	public function cwo($t,$w,$o){return $this->db->where($w)->order_by($o)->get($t)->num_rows();} //get where order by
     public function gw($t,$w){return $this->db->where($w)->get($t)->result();} //get where
     public function gwo($t,$w,$o){return $this->db->where($w)->order_by($o)->get($t)->result();} //get where order by
     public function gwl($t,$w,$l,$f){return $this->db->where($w)->limit($l,$f)->get($t)->result();} //get where limit
@@ -21,10 +20,10 @@ class CrudModel extends CI_Model {
     public function qq($q){return $this->db->query($q);} //query
 	public function i2($t,$d){$this->db->insert($t,$d); $insertedId = $this->db->insert_id(); return $insertedId;} //insert with return id
 
-    //update with return status checked
-	public function irs($t,$d){$this->db->insert($t,$d);; return ($this->db->affected_rows() > 0) ? "success" : "failed";}
+	//insert with return status
+	public function is($t,$d){$this->db->insert($t,$d); return ($this->db->affected_rows() > 0) ? "success" : "failed";}
 	//update with return status checked
-	public function uds($t,$d,$w){$this->db->where($w)->update($t,$d); return ($this->db->affected_rows() > 0) ? "success" : "failed";}
+	public function ud($t,$d,$w){$this->db->where($w)->update($t,$d); return ($this->db->affected_rows() > 0) ? "success" : "failed";}
 	//delete with return status checked
-	public function drs($t,$w){$this->db->where($w)->delete($t); return ($this->db->affected_rows() > 0) ? "success" : "failed";}
+	public function dr($t,$w){$this->db->where($w)->delete($t); return ($this->db->affected_rows() > 0) ? "success" : "failed";}
 }

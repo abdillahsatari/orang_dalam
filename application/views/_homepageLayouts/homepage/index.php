@@ -15,6 +15,7 @@
                                 <h3>Semua Berhak <br> Lulus CPNS & <br> Kedinasan</h3>
                                 <p>Lembaga Kursus Pertama di Indonesia yang Berani Menjamin Lulus Perankingan UTBK, CPNS dan Kedinasan.</p>
                                 <a href="#" class="thm-btn banner-one__btn"><span>Daftar</span></a>
+                                <a href="#" class="thm-btn banner-one__btn banner_btn_login"><span>Login</span></a>
                                 <!-- /.thm-btn banner-one__btn -->
                             </div><!-- /.banner-one__content -->
                         </div><!-- /.my-auto -->
@@ -274,7 +275,7 @@
                     </div><!-- /.col-lg-6 -->
                     <div class="col-lg-6">
                         <div class="block-title text-left">
-                            <h3>Pengalaman Siswa <br><span>Orang Dalam</span></h3>
+                            <h3>Pengalaman Bersama <br><span>Orang Dalam</span></h3>
                         </div><!-- /.block-title text-center -->
 
                         <ul class="slider testimonials-slider">

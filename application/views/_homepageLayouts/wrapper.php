@@ -39,6 +39,7 @@
     <link rel="stylesheet" href="assets/css/oapee-icons.css">
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/app.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 
@@ -74,8 +75,8 @@
                                 <li><a href="blog-details.html">News Details</a></li>
                             </ul>
                         </li> -->
-                    </ul><!-- /.main-nav__navigation-box -->
-                </div><!-- /.main-nav__main-navigation -->
+                    </ul>
+                </div>
                 <div class="main-nav__right">
                     <a href="tel:0812-4028-0088" class="main-nav__cta">
                         <img src="assets/images/shapes/header-phone-1-1.png" alt="">
@@ -83,11 +84,10 @@
                             <i>Fast Response </i>
                             <b>0812 4028 0088</b>
                         </span>
-                    </a><!-- /.main-nav__cta -->
-                    <!-- <a href="#" class="thm-btn main-nav__btn"><span>Download App</span></a> -->
-                </div><!-- /.main-nav__right -->
-            </div><!-- /.container-fluid -->
-        </header><!-- /.site-header-one -->
+                    </a>
+                </div>
+            </div>
+        </header> 
 
         <?php $this->load->view($content); ?>
 
@@ -103,12 +103,12 @@
                                 <p>Lembaga Bimbingan Belajar UTBK, CPNS, dan KEDINASAN, yang memiliki sistem pengajaran yang akurat dan ampuh, serta memiliki Mentor-mentor yang berkualitas dan 
 									berpengalaman, dan yang pertama di Indonesia, yang berani
 									menjamin kelulusan dalam perankingan.</p>
-                                <a href="#" class="thm-btn"><span>Daftar Sekarang</span></a><!-- /.thm-btn -->
-                            </div><!-- /.footer-widget footer-widget__about -->
-                        </div><!-- /.col-lg-4 -->
+                                <a href="#" class="thm-btn"><span>Daftar Sekarang</span></a>
+                            </div>
+                        </div>
                         <div class="col-xl-2 col-lg-6">
                             <div class="footer-widget footer-widget__links">
-                                <h3 class="footer-widget__title">Explore</h3><!-- /.footer-widget__title -->
+                                <h3 class="footer-widget__title">Explore</h3>
                                 <ul class="list-unstyled footer-widget__links-list">
                                     <li><a href="#home">Home</a></li>
                                     <li><a href="#features">Features</a></li>
@@ -116,9 +116,9 @@
                                     <li><a href="#pricing">Pricing</a></li>
 									<li><a href="#testimonials">Testimoni</a></li>
 									<li><a href="#blog">News</a></li>
-                                </ul><!-- /.list-unstyled footer-widget__links-list -->
-                            </div><!-- /.footer-widget footer-widget__links -->
-                        </div><!-- /.col-lg-2 -->
+                                </ul>
+                            </div>
+                        </div>
                         <div class="col-xl-4 col-lg-6">
                             <div class="footer-widget footer-widget__contact">
                                 <h3 class="footer-widget__title">Contact</h3><!-- /.footer-widget__title -->

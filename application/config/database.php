@@ -73,9 +73,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 
-// 'username' => 'u1572861_abdillahsatarirahim',
-// 'password' => 'HpPaviliondv6@12345',
-// 'database' => 'u1572861_feducationId_db',
+// 'username' => 'oran3679_admin_orang_dalam',
+// 'password' => 'Hppaviliondv6',
+// 'database' => 'oran3679_orang_dalam',
 
  $db['default'] = array(
  	'dsn'	=> '',

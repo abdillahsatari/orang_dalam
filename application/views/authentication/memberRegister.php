@@ -108,7 +108,7 @@
 					</div>
 
 					<div class="text-center p-t-100">
-						<p>© copyright <?= date("Y")?> by orangdalam.co.id</p>
+						<p>© copyright <?= date("Y")?> PT. Orang Dalam Indonesia</p>
 					</div>
 				</form>
 			</div>

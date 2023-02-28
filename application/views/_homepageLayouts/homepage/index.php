@@ -113,34 +113,34 @@
     </div>
 </section> -->
 
-<section class="funfact-one">
+<!-- <section class="funfact-one">
     <div class="container">
         <div class="block-title text-center">
             <h3>Sisa <span>Kuota</span></h3>
             <p>Sisa Kuota Untuk Periode Maret - April 2023</p>
-        </div><!-- /.block-title text-center -->
+        </div>
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
                 <div class="funfact-one__single">
-                    <h3 class="counter">3</h3><!-- /.counter -->
-                    <p>Paket Standard</p>
-                </div><!-- /.funfact-one__single -->
-            </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    <h3 class="counter">12</h3>
+                    <p>Paket Standar</p>
+                </div>
+            </div>
             <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                 <div class="funfact-one__single">
-                    <h3 class="counter">5</h3><!-- /.counter -->
+                    <h3 class="counter">5</h3>
                     <p>Paket Titipan</p>
-                </div><!-- /.funfact-one__single -->
-            </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                </div>
+            </div>
             <div class="col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
                 <div class="funfact-one__single">
-                    <h3 class="counter">5</h3><!-- /.counter -->
+                    <h3 class="counter">24</h3>
                     <p>Paket Premium</p>
-                </div><!-- /.funfact-one__single -->
-            </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-        </div><!-- /.row -->
-    </div><!-- /.container -->
-</section><!-- /.funfact-one -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
 
 <section class="pricing-one" id="pricing">
     <div class="container">
@@ -165,22 +165,22 @@
                         <div class="pricing-one__single">
                             <div class="pricing-one__inner">
                                 <i class="oapee-icon-send"></i>
-                                <p>Paket Standard</p>
+                                <p>Paket Standar</p>
                                 <br>
                                 <p> <del>Rp. 1.500.000</del></p>
-                                <h3>Rp.629.000</h3>
-                                per 1 Bulan
+                                <h3>Rp.750.000</h3>
+                                per 1,5 Bulan
                                 <ul class="list-unstyled pricing-one__list">
-                                    <li><i class="fa fa-check"></i>Sabtu-Minggu 16 Sesi</li>
-                                    <li><i class="fa fa-check"></i>Gratis Try-Out 1x</li>
+                                    <li><i class="fa fa-check"></i>Sabtu-Minggu 22 Sesi</li>
+                                    <li><i class="fa fa-check"></i>Gratis Try-Out 2x</li>
                                     <li><i class="fa fa-check"></i>Konsultasi Offline</li>
                                     <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
-                                </ul><!-- /.list-unstyled pricing-one__list -->
+                                </ul>
+                                <p class="mb-3">Tersisa 23 Kuota</p>
                                 <a href="<?= base_url('member/register') ?>" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
-                                <!-- /.thm-btn -->
-                            </div><!-- /.pricing-one__inner -->
-                        </div><!-- /.pricing-one__single -->
-                    </div><!-- /.col-lg-4 -->
+                            </div>
+                        </div>
+                    </div>
                     
                     <div class="col-lg-4 animated fadeInUp">
                         <div class="pricing-one__single">
@@ -190,16 +190,17 @@
                                 <br>
                                 <p> <del>Rp.12.000.000</del></p>
                                 <h3>Rp.6.999.000</h3>
-                                Sampai Lulus SKD</p>
+                                Sampai Pelaksanaan SKD</p>
                                 <ul class="list-unstyled pricing-one__list">
-                                    <li><i class="fa fa-check"></i>Private Class</li>
-                                    <li><i class="fa fa-check"></i>Gratis Try-Out 1 Tahun</li>
+                                    <li><i class="fa fa-check"></i>Private Class Sampai SKD</li>
+                                    <li><i class="fa fa-check"></i>Gratis Try-Out Selamanya</li>
                                     <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
                                     <li><i class="fa fa-check"></i>Bebas Akses Kelas</li>
                                     <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
                                     <li><i class="fa fa-check"></i>Jaminan Lulus Perankingan SKD</li>
                                 </ul>
-                                <a href="#" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
+                                <p class="mb-3">Tersisa 12 Kuota</p>
+                                <a href="<?= base_url('member/register')?>" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
                             </div>
                         </div>
                     </div>
@@ -211,15 +212,16 @@
                                 <p>Paket Premium</p>
                                 <br>
                                 <p> <del>Rp. 3.500.000</del></p>
-                                <h3>Rp1.199.000</h3>
+                                <h3>Rp1.400.000</h3>
                                 per 3 Bulan
                                 <ul class="list-unstyled pricing-one__list">
                                     <li><i class="fa fa-check"></i>Sabtu-Minggu 48 Sesi</li>
-                                    <li><i class="fa fa-check"></i>Gratis Try-Out 3x</li>
+                                    <li><i class="fa fa-check"></i>Gratis Try-Out 4x</li>
                                     <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
                                     <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
-                                </ul><!-- /.list-unstyled pricing-one__list -->
-                                <a href="#" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
+                                </ul>
+                                <p class="mb-3">Tersisa 10 Kuota</p>
+                                <a href="<?= base_url('member/register')?>" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
                                 <!-- /.thm-btn -->
                             </div><!-- /.pricing-one__inner -->
                         </div><!-- /.pricing-one__single -->
@@ -254,7 +256,9 @@
                             <a href="#" class="pager-item" data-slide-index="4"><img
                                     src="assets/images/testimonials/testi-4.jpg" alt="Awesome Image" /></a>
                             <a href="#" class="pager-item" data-slide-index="5"><img
-                                    src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a>
+                            <!-- <a href="#" class="pager-item" data-slide-index="6"><img
+                                    src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a> -->
                         </div><!-- /.testimonials-slider-pager-one -->
                         <div class="testimonials-slider-pager-two">
                             <a href="#" class="pager-item active" data-slide-index="0"><img
@@ -268,7 +272,9 @@
                             <a href="#" class="pager-item" data-slide-index="4"><img
                                     src="assets/images/testimonials/testi-4.jpg" alt="Awesome Image" /></a>
                             <a href="#" class="pager-item" data-slide-index="5"><img
-                                    src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a>
+                            <!-- <a href="#" class="pager-item" data-slide-index="6"><img
+                                    src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a> -->
                         </div><!-- /.testimonials-slider-pager-two -->
                     </div><!-- /#testimonials-slider-pager -->
                 </div><!-- /.my-auto -->
@@ -329,6 +335,14 @@
                             <h3>Kasturi</h3>
                             <span>Pemprov Sulbar - CPNS 2021</span>
                         </div><!-- /.testimonials-one__single -->
+                    </li>
+                    <li class="slide-item">
+                        <div class="testimonials-one__single">
+                            <p>Orang Dalam punya banyak alternatif metode belajar sehingga saya dapat memahami dan mennyelesaikan seleksi saya dengan hasil yang memuaskan. Terima kasih banyak Orang Dalam!
+                            </p>
+                            <h3>Elyn</h3>
+                            <span>BUMN - Asabri 2021</span>
+                        </div>
                     </li>
                 </ul>
             </div><!-- /.col-lg-6 -->
@@ -405,7 +419,7 @@
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-4 d-flex ">
                 <div class="my-auto d-flex justify-content-end">
-                    <a href="#" class="thm-btn cta-one__btn"><span>Daftar Sekarang</span></a>
+                    <a href="<?= base_url('member/register')?>" class="thm-btn cta-one__btn"><span>Daftar Sekarang</span></a>
                     <!-- /.thm-btn cta-one__btn -->
                 </div><!-- /.my-auto -->
             </div><!-- /.col-lg-6 -->

@@ -154,7 +154,7 @@
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="inner-container">
-                        <p>© copyright <?= date("Y")?> by orangdalam.co.id</p>
+                        <p>© copyright <?= date("Y")?> PT. Orang Dalam Indonesia</p>
                         <div class="footer-social">
                             <a href="https://www.facebook.com/official.orangdalam/"><i class="fab fa-facebook-square"></i></a>
 							<a href="https://www.instagram.com/official.orangdalam/"><i class="fab fa-instagram"></i></a>

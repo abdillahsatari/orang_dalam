@@ -176,7 +176,7 @@
                                     <li><i class="fa fa-check"></i>Konsultasi Offline</li>
                                     <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
                                 </ul>
-                                <p class="mb-3">Tersisa 23 Kuota</p>
+                                <p class="mb-3">Tersisa 12 Kuota</p>
                                 <a href="<?= base_url('member/register') ?>" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
                             </div>
                         </div>
@@ -220,7 +220,7 @@
                                     <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
                                     <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
                                 </ul>
-                                <p class="mb-3">Tersisa 10 Kuota</p>
+                                <p class="mb-3">Tersisa 23 Kuota</p>
                                 <a href="<?= base_url('member/register')?>" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
                                 <!-- /.thm-btn -->
                             </div><!-- /.pricing-one__inner -->
@@ -340,7 +340,7 @@
                         <div class="testimonials-one__single">
                             <p>Orang Dalam punya banyak alternatif metode belajar sehingga saya dapat memahami dan mennyelesaikan seleksi saya dengan hasil yang memuaskan. Terima kasih banyak Orang Dalam!
                             </p>
-                            <h3>Elyn</h3>
+                            <h3>Eline</h3>
                             <span>BUMN - Asabri 2021</span>
                         </div>
                     </li>

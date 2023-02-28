@@ -87,11 +87,11 @@ class MemberAuth extends CI_Controller {
 			switch($input["member_package"]){
 				case "1":
 					$courseName		= "Standar";
-					$coursePrice	= "Rp. 629.000";
+					$coursePrice	= "Rp. 750.000";
 					break;
 				case "2":
 					$courseName		= "Premium";
-					$coursePrice	= "Rp. 1.199.000";
+					$coursePrice	= "Rp. 1.400.000";
 					break;
 				case "3":
 					$courseName		= "Titipan";

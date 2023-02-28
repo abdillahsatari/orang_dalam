@@ -68,6 +68,8 @@ function sendEmail($params){
 // 	$mail->SMTPSecure 	= 'ssl';
 // 	$mail->Port     	= 465; // 465/587
 
+	$mail->AddEmbeddedImage('assets/images/orang_dalam.png', 'logoimg', 'orang_dalam.png', 'base64', 'image/png');
+
 	$mail->isSMTP();
 	$mail->Host     	= 'mail.orangdalam.co.id';
 	$mail->SMTPAuth 	= true;
@@ -81,7 +83,7 @@ function sendEmail($params){
 											  'verify_peer_name' => false,
 											  'allow_self_signed' => true));
 
-	$mail->setFrom('noreply@orangdalam.co.id', 'Official Orang Dalam');
+	$mail->setFrom('noreply@orangdalam.co.id', 'PT. Orang Dalam Indonesia');
 	$mail->addReplyTo('dev@orangdalam.co.id');
 	$mail->addAddress($params['emailRecipient']);
 	$mail->Subject = $params['emailSubject'];

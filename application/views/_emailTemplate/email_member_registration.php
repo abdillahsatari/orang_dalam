@@ -349,7 +349,7 @@
             <td valign="top" style="padding:0;Margin:0">
                <table class="es-header" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%;background-color:#FFA73B;background-repeat:repeat;background-position:center top">
                   <tr style="border-collapse:collapse">
-                     <td align="center" bgcolor="#194cc2" style="padding:0;Margin:0;background-color:#194cc2">
+                     <td align="center" bgcolor="#D5B06A" style="padding:0;Margin:0;background-color:#D5B06A">
                         <table class="es-header-body" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px">
                            <tr style="border-collapse:collapse">
                               <td align="left" style="Margin:0;padding-bottom:10px;padding-left:10px;padding-right:10px;padding-top:20px">
@@ -359,7 +359,7 @@
                                           <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                                              <tr style="border-collapse:collapse">
                                                 <td align="center" style="Margin:0;padding-left:10px;padding-right:10px;padding-top:25px;padding-bottom:25px;font-size:0px">
-                                                   <img src="cid:logoimg" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="130">
+                                                   <img src="cid:logoimg" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" width="230">
                                                 </td>
                                              </tr>
                                           </table>
@@ -374,7 +374,7 @@
                </table>
                <table class="es-content" cellspacing="0" cellpadding="0" align="center" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;table-layout:fixed !important;width:100%">
                   <tr style="border-collapse:collapse">
-                     <td style="padding:0;Margin:0;background-color:#194cc2" bgcolor="#194cc2" align="center">
+                     <td style="padding:0;Margin:0;background-color:#D5B06A" bgcolor="#D5B06A" align="center">
                         <table class="es-content-body" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:transparent;width:600px" cellspacing="0" cellpadding="0" align="center">
                            <tr style="border-collapse:collapse">
                               <td align="left" style="padding:0;Margin:0">
@@ -473,7 +473,7 @@
                                                       <tr>
                                                          <td>Atas Nama</td>
                                                          <td>:</td>
-                                                         <td>PT. Orang Dalam Indonesia</td>
+                                                         <td>Orang Dalam Indonesia PT</td>
                                                       </tr>
                                                       <tr>
                                                          <td>Total Pembayaran</td>
@@ -491,7 +491,7 @@
                                              <tr style="border-collapse:collapse">
                                                 <td align="center" valign="top">
                                                    <a href="https://api.whatsapp.com/send?phone=+6281240280088&text=Hallo%20Orang Dalam%20Id,%20berikut%20adalah%20bukti%20transfer%20pendaftaran%20kelas%20saya" target="_blank" 
-                                                      style="width: fit-content; background: aqua; display: block; border: 1px solid #27cbcc; border-radius: 4px; padding: 12px 23px; font-family: 'Source Sans Pro', Arial, Verdana, Tahoma, Geneva, sans-serif; color: #050505; font-size: 20px; line-height: 30px; text-decoration: none; white-space: nowrap; font-weight: 600;">
+                                                      style="width: fit-content; background: aqua; display: block; border: 1px solid #D5B06A; border-radius: 4px; padding: 12px 23px; font-family: 'Source Sans Pro', Arial, Verdana, Tahoma, Geneva, sans-serif; color: #050505; font-size: 20px; line-height: 30px; text-decoration: none; white-space: nowrap; font-weight: 600;">
                                                       <font face="'Source Sans Pro', sans-serif" color="#ffffff" style="font-size: 20px; line-height: 30px; text-decoration: none; white-space: nowrap; font-weight: 600;">
                                                          <span style="font-family: 'Source Sans Pro', Arial, Verdana, Tahoma, Geneva, sans-serif; color: #ffffff; font-size: 20px; line-height: 30px; text-decoration: none; white-space: nowrap; font-weight: 600;">Verifikasi Pembayaran</span>
                                                       </font>

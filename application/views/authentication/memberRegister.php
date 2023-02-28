@@ -18,7 +18,7 @@
 	<link rel="stylesheet" type="text/css" href="<?= base_url('assets/')?>auth/vendor/select2/select2.min.css">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="<?= base_url('assets/')?>auth/css/util.css">
-	<link rel="stylesheet" type="text/css" href="<?= base_url('assets/')?>auth/css/main.css">
+	<link rel="stylesheet" type="text/css" href="<?= base_url('assets/')?>auth/css/main.css?v=2.0.0">
 <!--===============================================================================================-->
 	<link rel="stylesheet" href="<?= base_url('assets/')?>css/style.css">
 	<link rel="stylesheet" href="<?= base_url('assets/')?>css/app.css">

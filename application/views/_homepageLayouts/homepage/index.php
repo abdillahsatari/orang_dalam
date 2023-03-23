@@ -189,7 +189,7 @@
                                 <p>Paket Titipan</p>
                                 <br>
                                 <p> <del>Rp.12.000.000</del></p>
-                                <h3>Rp.6.999.000</h3>
+                                <h3>Rp.9.999.000</h3>
                                 Sampai Pelaksanaan SKD</p>
                                 <ul class="list-unstyled pricing-one__list">
                                     <li><i class="fa fa-check"></i>Private Class Sampai SKD</li>
@@ -199,7 +199,7 @@
                                     <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
                                     <li><i class="fa fa-check"></i>Jaminan Lulus Perankingan SKD</li>
                                 </ul>
-                                <p class="mb-3">Tersisa 12 Kuota</p>
+                                <p class="mb-3">Tersisa 5 Kuota</p>
                                 <a href="<?= base_url('member/register')?>" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
                             </div>
                         </div>
@@ -213,14 +213,14 @@
                                 <br>
                                 <p> <del>Rp. 3.500.000</del></p>
                                 <h3>Rp1.400.000</h3>
-                                per 3 Bulan
+                                per 2 Bulan
                                 <ul class="list-unstyled pricing-one__list">
-                                    <li><i class="fa fa-check"></i>Sabtu-Minggu 48 Sesi</li>
+                                    <li><i class="fa fa-check"></i>Sabtu-Minggu 32 Sesi</li>
                                     <li><i class="fa fa-check"></i>Gratis Try-Out 4x</li>
                                     <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
                                     <li><i class="fa fa-check"></i>Akses Soal Tidak Terbatas</li>
                                 </ul>
-                                <p class="mb-3">Tersisa 23 Kuota</p>
+                                <p class="mb-3">Tersisa 24 Kuota</p>
                                 <a href="<?= base_url('member/register')?>" class="thm-btn pricing-one__btn"><span>Daftar</span></a>
                                 <!-- /.thm-btn -->
                             </div><!-- /.pricing-one__inner -->
@@ -340,7 +340,7 @@
                         <div class="testimonials-one__single">
                             <p>Orang Dalam punya banyak alternatif metode belajar sehingga saya dapat memahami dan mennyelesaikan seleksi saya dengan hasil yang memuaskan. Terima kasih banyak Orang Dalam!
                             </p>
-                            <h3>Eline</h3>
+                            <h3>Elyn</h3>
                             <span>BUMN - Asabri 2021</span>
                         </div>
                     </li>

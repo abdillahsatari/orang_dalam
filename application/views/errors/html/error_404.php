@@ -61,7 +61,7 @@ $security = load_class('Security');
             <div class="container-fluid">
                 <div class="site-header-one__logo">
                     <a href="#">
-                        <img src="assets/images/orang_dalam.png" width="200" alt="">
+                        <img src="assets/images/logo-1-1.png" width="200" alt="">
                     </a>
                     <span class="side-menu__toggler"><i class="fa fa-bars"></i></span><!-- /.side-menu__toggler -->
                 </div><!-- /.site-header-one__logo -->

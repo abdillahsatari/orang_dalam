@@ -95,7 +95,7 @@ class MemberAuth extends CI_Controller {
 					break;
 				case "3":
 					$courseName		= "Titipan";
-					$coursePrice	= "Rp. 6.999.000";
+					$coursePrice	= "Rp. 9.999.000";
 					break;
 
 			}

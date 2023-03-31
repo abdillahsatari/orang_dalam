@@ -57,7 +57,7 @@ $params = $this->uri->segment(3); ?>
 		<div class="sidebar-wrapper" data-simplebar="true">
 			<div class="sidebar-header">
 				<div>
-					<img src="<?= base_url('assets/') ?>admin/images/logo-icon.png" class="logo-icon" alt="logo icon">
+					<img src="<?= base_url('assets/') ?>admin/images/logo-icon.png" class="logo-icon" alt="bimbel orang dalam">
 				</div>
 				<div>
 					<h4 class="logo-text">FeducationID</h4>
@@ -184,7 +184,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-1.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-1.png" class="msg-avatar" alt="bimbel cpns">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Daisy Anderson <span class="msg-time float-end">5 sec
@@ -196,7 +196,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-2.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-2.png" class="msg-avatar" alt="bimbel utbk">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Althea Cabardo <span class="msg-time float-end">14
@@ -208,7 +208,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-3.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-3.png" class="msg-avatar" alt="bimbel ipdn">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Oscar Garner <span class="msg-time float-end">8 min
@@ -220,7 +220,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-4.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-4.png" class="msg-avatar" alt="bimbel ipdn">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Katherine Pechon <span class="msg-time float-end">15
@@ -232,7 +232,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-5.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-5.png" class="msg-avatar" alt="bimbel cpns">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Amelia Doe <span class="msg-time float-end">22 min
@@ -244,7 +244,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-6.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-6.png" class="msg-avatar" alt="bimbel utbk">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Cristina Jhons <span class="msg-time float-end">2 hrs
@@ -256,7 +256,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-7.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-7.png" class="msg-avatar" alt="bimbel online">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">James Caviness <span class="msg-time float-end">4 hrs
@@ -268,7 +268,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-8.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-8.png" class="msg-avatar" alt="bimbel orang dalam">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Peter Costanzo <span class="msg-time float-end">6 hrs
@@ -280,7 +280,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-9.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-9.png" class="msg-avatar" alt="bimbel orang dalam">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">David Buckley <span class="msg-time float-end">2 hrs
@@ -292,7 +292,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-10.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-10.png" class="msg-avatar" alt="bimbel orang dalam">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Thomas Wheeler <span class="msg-time float-end">2 days
@@ -304,7 +304,7 @@ $params = $this->uri->segment(3); ?>
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-11.png" class="msg-avatar" alt="user avatar">
+													<img src="<?= base_url('assets/') ?>admin/images/avatars/avatar-11.png" class="msg-avatar" alt="bimbel orang dalam">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Johnny Seitz <span class="msg-time float-end">5 days
@@ -333,7 +333,7 @@ $params = $this->uri->segment(3); ?>
 								$memberImage = base_url("assets/resources/images/accounts/memberImageProfiles/default_profil_image.png");
 							}?>
 
-							<img src="<?= $memberImage ?>" class="user-img" alt="user avatar">
+							<img src="<?= $memberImage ?>" class="user-img" alt="bimbel orang dalam">
 							<div class="user-info ps-3">
 								<p class="user-name mb-0"><?= $this->session->userdata('member_full_name'); ?></p>
 							</div>

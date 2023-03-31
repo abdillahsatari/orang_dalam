@@ -1,10 +1,10 @@
 <section class="banner-one" id="home">
 
-    <img src="assets/images/shapes/banner-shape-1-1.png" class="banner-one__bg-shape-1" alt="orangdalam.co.id">
-    <img src="assets/images/shapes/banner-shape-1-2.png" class="banner-one__bg-shape-2" alt="orangdalam.co.id">
-    <img src="assets/images/shapes/banner-shape-1-3.png" class="banner-one__bg-shape-3" alt="orangdalam.co.id">
-    <img src="assets/images/shapes/banner-shape-1-4.png" class="banner-one__bg-shape-4" alt="orangdalam.co.id">
-    <img src="assets/images/shapes/banner-shape-1-5.png" class="banner-one__bg-shape-5" alt="orangdalam.co.id">
+    <img src="assets/images/shapes/banner-shape-1-1.png" class="banner-one__bg-shape-1" alt="bimbel cpns">
+    <img src="assets/images/shapes/banner-shape-1-2.png" class="banner-one__bg-shape-2" alt="bimbel utbk">
+    <img src="assets/images/shapes/banner-shape-1-3.png" class="banner-one__bg-shape-3" alt="bimbel ipdn">
+    <img src="assets/images/shapes/banner-shape-1-4.png" class="banner-one__bg-shape-4" alt="bimbel mamuju">
+    <img src="assets/images/shapes/banner-shape-1-5.png" class="banner-one__bg-shape-5" alt="kelas online cpns">
 
     <div class="container">
         <div class="row">
@@ -22,7 +22,7 @@
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6 d-flex justify-content-end wow fadeInUp" data-wow-duration="1500ms">
                 <div class="banner-one__image">
-                    <img src="assets/images/resources/banner-1-moc-1.png" alt="orangdalam.co.id">
+                    <img src="assets/images/resources/banner-1-moc-1.png" alt="kelas online cpns">
                 </div><!-- /.banner-one__image -->
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -77,12 +77,12 @@
 </section><!-- /.service-one -->
 
 <section class="cta-two" id="about">
-    <img src="assets/images/shapes/cta-2-shape-1.png" alt="orangdalam.co.id" class="cta-two__bg-shape-1">
-    <img src="assets/images/shapes/cta-2-dot-1.png" class="cta-two__bg-shape-2" alt="orangdalam.co.id">
+    <img src="assets/images/shapes/cta-2-shape-1.png" alt="bimbel orang dalam" class="cta-two__bg-shape-1">
+    <img src="assets/images/shapes/cta-2-dot-1.png" class="cta-two__bg-shape-2" alt="bimbel orang dalam">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <img src="assets/images/resources/cta-2-1.png" class="cta-two__content-image" alt="orangdalam.co.id">
+                <img src="assets/images/resources/cta-2-1.png" class="cta-two__content-image" alt="bimbel orang dalam">
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6">
                 <div class="cta-two__content">
@@ -171,6 +171,7 @@
                                 <h3>Rp.750.000</h3>
                                 per 1,5 Bulan
                                 <ul class="list-unstyled pricing-one__list">
+                                    <li><i class="fa fa-check"></i>Online & Offline Class</li>
                                     <li><i class="fa fa-check"></i>Sabtu-Minggu 22 Sesi</li>
                                     <li><i class="fa fa-check"></i>Gratis Try-Out 2x</li>
                                     <li><i class="fa fa-check"></i>Konsultasi Offline</li>
@@ -189,9 +190,10 @@
                                 <p>Paket Titipan</p>
                                 <br>
                                 <p> <del>Rp.12.000.000</del></p>
-                                <h3>Rp.9.999.000</h3>
+                                <h3 style="font-size: 40px;" >Rp.10.000.000</h3>
                                 Sampai Pelaksanaan SKD</p>
-                                <ul class="list-unstyled pricing-one__list">
+                                <ul class="list-unstyled pricing-one__list" style="padding-bottom:20px">
+                                    <li><i class="fa fa-check"></i>Offline Class</li>
                                     <li><i class="fa fa-check"></i>Private Class Sampai SKD</li>
                                     <li><i class="fa fa-check"></i>Gratis Try-Out Selamanya</li>
                                     <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
@@ -215,6 +217,7 @@
                                 <h3>Rp1.400.000</h3>
                                 per 2 Bulan
                                 <ul class="list-unstyled pricing-one__list">
+                                    <li><i class="fa fa-check"></i>Offline Class</li>
                                     <li><i class="fa fa-check"></i>Sabtu-Minggu 32 Sesi</li>
                                     <li><i class="fa fa-check"></i>Gratis Try-Out 4x</li>
                                     <li><i class="fa fa-check"></i>Konsultasi 24/7</li>
@@ -234,11 +237,11 @@
 </section><!-- /.pricing-one -->
 
 <section class="testimonials-one" id="testimonials">
-    <img src="assets/images/shapes/testi-line-1-1.png" alt="Awesome Image"
+    <img src="assets/images/shapes/testi-line-1-1.png" alt="bimbel orang dalam"
         class="testimonials-one__bg-shape-2" />
 
     <div class="container">
-        <img src="assets/images/shapes/testi-map-1-1.png" alt="Awesome Image"
+        <img src="assets/images/shapes/testi-map-1-1.png" alt="bimbel orang dalam"
             class="testimonials-one__bg-shape-1" />
         <div class="row">
             <div class="col-lg-6 d-flex">
@@ -246,33 +249,33 @@
                     <div id="testimonials-slider-pager">
                         <div class="testimonials-slider-pager-one">
                             <a href="#" class="pager-item active" data-slide-index="0"><img
-                                    src="assets/images/testimonials/testi-3.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-3.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="1"><img
-                                    src="assets/images/testimonials/testi-2.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-2.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="2"><img
-                                    src="assets/images/testimonials/testi-5.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-5.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="3"><img
-                                    src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-1.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="4"><img
-                                    src="assets/images/testimonials/testi-4.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-4.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="5"><img
-                                    src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-6.jpg" alt="bimbel orang dalam" /></a>
                             <!-- <a href="#" class="pager-item" data-slide-index="6"><img
                                     src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a> -->
                         </div><!-- /.testimonials-slider-pager-one -->
                         <div class="testimonials-slider-pager-two">
                             <a href="#" class="pager-item active" data-slide-index="0"><img
-                                    src="assets/images/testimonials/testi-3.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-3.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="1"><img
-                                    src="assets/images/testimonials/testi-2.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-2.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="2"><img
-                                    src="assets/images/testimonials/testi-5.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-5.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="3"><img
-                                    src="assets/images/testimonials/testi-1.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-1.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="4"><img
-                                    src="assets/images/testimonials/testi-4.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-4.jpg" alt="bimbel orang dalam" /></a>
                             <a href="#" class="pager-item" data-slide-index="5"><img
-                                    src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a>
+                                    src="assets/images/testimonials/testi-6.jpg" alt="bimbel orang dalam" /></a>
                             <!-- <a href="#" class="pager-item" data-slide-index="6"><img
                                     src="assets/images/testimonials/testi-6.jpg" alt="Awesome Image" /></a> -->
                         </div><!-- /.testimonials-slider-pager-two -->
@@ -351,8 +354,8 @@
 </section><!-- /.testimonials-one -->
 
 <section class="blog-one" id="blog">
-    <img src="assets/images/shapes/blog-shape-1-1.png" class="blog-one__bg-shape-1" alt="orangdalam.co.id">
-    <img src="assets/images/shapes/blog-shape-1-2.png" class="blog-one__bg-shape-2" alt="`orangdalam.co.id`">
+    <img src="assets/images/shapes/blog-shape-1-1.png" class="blog-one__bg-shape-1" alt="bimbel orang dalam">
+    <img src="assets/images/shapes/blog-shape-1-2.png" class="blog-one__bg-shape-2" alt="bimbel orang dalam">
     <div class="container">
         <div class="block-title text-center">
             <h3>Artikel <span>Orang Dalam</span></h3>
@@ -362,7 +365,7 @@
             <div class="col-lg-4 ">
                 <div class="blog-one__single">
                     <div class="blog-one__image">
-                        <img src="assets/images/blog/blog-1-1.jpg" alt="orangdalam.co.id">
+                        <img src="assets/images/blog/blog-1-1.jpg" alt="bimbel orang dalam">
                     </div><!-- /.blog-one__image -->
                     <div class="blog-one__content">
                         <div class="blog-one__meta">
@@ -377,7 +380,7 @@
             <div class="col-lg-4 ">
                 <div class="blog-one__single">
                     <div class="blog-one__image">
-                        <img src="assets/images/blog/blog-1-2.jpg" alt="orangdalam.co.id">
+                        <img src="assets/images/blog/blog-1-2.jpg" alt="bimbel orang dalam">
                     </div><!-- /.blog-one__image -->
                     <div class="blog-one__content">
                         <div class="blog-one__meta">
@@ -392,7 +395,7 @@
             <div class="col-lg-4 ">
                 <div class="blog-one__single">
                     <div class="blog-one__image">
-                        <img src="assets/images/blog/blog-1-3.jpg" alt="orangdalam.co.id">
+                        <img src="assets/images/blog/blog-1-3.jpg" alt="bimbel orang dalam">
                     </div><!-- /.blog-one__image -->
                     <div class="blog-one__content">
                         <div class="blog-one__meta">
@@ -409,7 +412,7 @@
 
 <section class="cta-one" style="background-image: url(assets/images/backgrounds/cta-1-bg-1.jpg);">
     <div class="container">
-        <img src="assets/images/shapes/cta-shape-1-1.png" class="cta-one__bg-shape-1" alt="orangdalam.co.id">
+        <img src="assets/images/shapes/cta-shape-1-1.png" class="cta-one__bg-shape-1" alt="bimbel orang dalam">
         <div class="row">
             <div class="col-lg-8">
                 <div class="cta-one__content">

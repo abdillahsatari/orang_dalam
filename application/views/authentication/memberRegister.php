@@ -84,7 +84,7 @@
 					</div>
 					
 					<div class="container-login100-form-btn">
-						<button class="thm-btn pricing-one__btn">
+						<button class="thm-btn pricing-one__btn js-submit-button">
 							Daftar
 						</button>
 					</div>

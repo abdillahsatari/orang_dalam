@@ -46,7 +46,7 @@
 <body>
 
     <div class="preloader">
-        <img src="assets/images/loading.png" class="preloader__image" alt="">
+        <img src="assets/images/loading.png" class="preloader__image" alt="bimbel orang dalam">
     </div><!-- /.preloader -->
 
     <div class="page-wrapper">
@@ -54,7 +54,7 @@
             <div class="container-fluid">
                 <div class="site-header-one__logo">
                     <a href="#">
-                        <img src="assets/images/orang_dalam.png" width="200" alt="">
+                        <img src="assets/images/orang_dalam.png" width="200" alt="bimbel orang dalam">
                     </a>
                     <span class="side-menu__toggler"><i class="fa fa-bars"></i></span><!-- /.side-menu__toggler -->
                 </div><!-- /.site-header-one__logo -->
@@ -79,7 +79,7 @@
                 </div>
                 <div class="main-nav__right">
                     <a href="tel:0812-4028-0088" class="main-nav__cta">
-                        <img src="assets/images/shapes/header-phone-1-1.png" alt="">
+                        <img src="assets/images/shapes/header-phone-1-1.png" alt="bimbel orang dalam">
                         <span>
                             <i>Fast Response </i>
                             <b>0812 4028 0088</b>
@@ -98,7 +98,7 @@
                         <div class="col-xl-6 col-lg-6">
                             <div class="footer-widget footer-widget__about">
                                 <a href="#" class="logo">
-                                    <img src="assets/images/logo-1-2.png" width="200" alt="">
+                                    <img src="assets/images/logo-1-2.png" width="200" alt="bimbel orang dalam">
                                 </a>
                                 <p>Lembaga Bimbingan Belajar UTBK, CPNS, dan KEDINASAN, yang memiliki sistem pengajaran yang akurat dan ampuh, serta memiliki Mentor-mentor yang berkualitas dan 
 									berpengalaman, dan yang pertama di Indonesia, yang berani
@@ -177,7 +177,7 @@
             <div class="side-menu__top justify-content-end">
 
                 <a href="#" class="side-menu__toggler side-menu__close-btn"><img
-                        src="assets/images/shapes/close-1-1.png" alt=""></a>
+                        src="assets/images/shapes/close-1-1.png" alt="bimbel orang dalam"></a>
             </div><!-- /.side-menu__top -->
 
 
